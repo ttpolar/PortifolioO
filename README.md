@@ -1,2 +1,0 @@
-# PortifolioO
-Meu primeiro Portifólio
